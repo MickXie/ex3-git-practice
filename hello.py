@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hi, {name}! Welcome to the feature branch."
 
 
 if __name__ == "__main__":
